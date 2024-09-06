@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Four Card</title>
+    <link rel="stylesheet" href="Four-card.css" />
+  </head>
+  <body>
+    <header>
+      <h2>Reliable,efficient delivery</h2>
+      <h2>Poweredby Technology</h2>
+      <p>Lorem Ipsum is simply dummy text of the</p>
+    </header>
+    <main>
+      <div id="container">
+        <div id="supervisor" class="widthClass heightBorderClass">
+          <h2>Supervisor</h2>
+          <p>Monitors activity to identify project roadblocks</p>
+          <div class="logo">Logo</div>
+        </div>
+        <div id="col2" class="widthClass">
+          <div id="teamBuilder" class="heightBorderClass">
+            <h2>Team Builder</h2>
+            <p>
+              Scans our talent network to create the optimal team for your
+              project
+            </p>
+            <div class="logo">Logo</div>
+          </div>
+          <div id="karma" class="heightBorderClass">
+            <h2>Karma</h2>
+            <p>Regularly evaluates our talent to ensure quality</p>
+            <div class="logo">Logo</div>
+          </div>
+        </div>
+        <div id="calculator" class="widthClass heightBorderClass">
+          <h2>Calculator</h2>
+          <p>
+            Uses data from past projects to provide better delivery estimates
+          </p>
+          <div class="logo">Logo</div>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
